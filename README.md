@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="Restart" src=".github/asset.git" width="100%">
+  <img alt="Restart" src=".github/asset.gif" width="100%">
 </p>
 
 ## :rocket: Tecnologias
